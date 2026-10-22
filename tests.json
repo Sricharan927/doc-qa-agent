@@ -1,0 +1,14 @@
+[
+  {"question": "Which two seed health testing methods were used in the Tanjina Arfin et al study?", "must_contain": ["blotter", "dry seeds"]},
+  {"question": "Name the seed-borne fungi identified in the vegetable seeds in the Tanjina Arfin et al study.", "must_contain": ["Aspergillus", "Fusarium"]},
+  {"question": "What irrigation amount gave the best spinach yield in the Husaifuna et al study?", "must_contain": ["700"]},
+  {"question": "Which spinach cultivar and sowing date performed best in the Sandeep Kaur et al study?", "must_contain": ["All Green", "9 October"]},
+  {"question": "What classification rate did the deep learning model for spinach leaf disease achieve in the Laixiang Xu et al study?", "must_contain": ["95.12"]},
+  {"question": "How many grams of leafy green vegetables per day does the ICMR advise eating?", "must_contain": ["100"]},
+  {"question": "Which hand weeding tool gave the best weed control in the Sita Tiwari et al study?", "must_contain": ["chipping hoe"]},
+  {"question": "Which cover crops were studied in the Elyse Aubry et al nematode study?", "must_contain": ["Cowpea", "Pearl Millet"]},
+  {"question": "Which leafy vegetables were used to test the intelligent irrigation system in the Rajesh Chaudhari et al study?", "must_contain": ["fenugreek", "spinach", "dill"]},
+  {"question": "What is the unified dry sieving mode developed in the Dmitry Fomin et al study?", "must_contain": ["2.5", "50 Hz"]},
+  {"question": "What was the crop height of spinach in the Ramineni Harsha Nag et al harvester study?", "must_contain": ["42.8"]},
+  {"question": "What was the average faecal coliform count of the irrigation water at Chang'ombe?", "must_contain": ["406.1"]}
+]
